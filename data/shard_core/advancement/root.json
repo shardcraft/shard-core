@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:amethyst_shard"
+    },
+    "title": "Shard",
+    "frame": "task",
+    "background": "minecraft:textures/block/tube_coral_block.png",
+    "description": "Welcome to Shard!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "shard_core:welcome_gift"
+  }
+}
