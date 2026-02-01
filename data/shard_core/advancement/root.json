@@ -5,7 +5,7 @@
     },
     "title": "Shard",
     "frame": "task",
-    "background": "minecraft:textures/block/tube_coral_block.png",
+    "background": "minecraft:block/tube_coral_block",
     "description": "Welcome to Shard!",
     "show_toast": true,
     "announce_to_chat": true,
