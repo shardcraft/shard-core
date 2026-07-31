@@ -13,7 +13,7 @@
   },
   "criteria": {
     "nothing": {
-      "trigger": "minecraft:impossible"
+      "trigger": "minecraft:location"
     }
   },
   "rewards": {

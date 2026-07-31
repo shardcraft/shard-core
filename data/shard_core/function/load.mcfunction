@@ -1,1 +1,0 @@
-schedule function shard_core:main 1s replace
